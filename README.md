@@ -15,3 +15,17 @@ General Airport Information:
 More information about the airport:
 - https://en.wikipedia.org/wiki/Neuburg_Air_Base
 - https://de.wikipedia.org/wiki/Fliegerhorst_Neuburg
+
+Screenshots:
+
+![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_001.jpg)
+
+![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_002.jpg)
+
+![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_003.jpg)
+
+![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_004.jpg)
+
+![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_005.jpg)
+
+![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_006.jpg)

@@ -3,7 +3,7 @@
 	<Airport region="Bayern" country="Deutschland" state="Bayern" city="Neuburg a.d.Donau" name="Fliegerhorst Neuburg" ident="ETSN" lat="48.71099280248328" lon="11.21160727930378" alt="375.99140042159706" magvar="3.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
 		<TaxiName index="0" name=""/>
 		<Runway lat="48.71098143020987" lon="11.21191710097521" alt="378.59228121023625" heading="90.50000000000000" length="2547.58471679687500" width="30.00000000000000" patternAltitude="304.79998779296875" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="09" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="10.00000000000000" secondaryMarkingBias="10.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
-			<Markings edges="TRUE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="TRUE" alternateFixedDistance="TRUE" touchdown="TRUE" alternateTouchdown="TRUE" dashes="FALSE" ident="TRUE" leadingZeroIdent="TRUE" precision="TRUE" alternatePrecision="TRUE" edgePavement="TRUE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
+			<Markings edges="TRUE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="TRUE" alternateFixedDistance="FALSE" touchdown="TRUE" alternateTouchdown="TRUE" dashes="FALSE" ident="TRUE" leadingZeroIdent="TRUE" precision="TRUE" alternatePrecision="TRUE" edgePavement="TRUE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="LOW" edge="MEDIUM"/>
 			<OffsetThreshold end="PRIMARY" surface="{BC96E08E-86F6-4ED7-85C9-2847BE14C27B}" length="10.000000"/>
 			<OffsetThreshold end="SECONDARY" surface="{BC96E08E-86F6-4ED7-85C9-2847BE14C27B}" length="10.000000"/>
@@ -11,8 +11,8 @@
 			<BlastPad end="SECONDARY" surface="{BC96E08E-86F6-4ED7-85C9-2847BE14C27B}" length="300.000000"/>
 			<ApproachLights end="PRIMARY" system="ODALS" strobes="2" endLights="TRUE" touchdown="TRUE" snapToGround="TRUE" reil="TRUE" offset="30.480000" spacing="30.480000" slope="0.000000"/>
 			<ApproachLights end="SECONDARY" system="ODALS" strobes="2" endLights="TRUE" touchdown="TRUE" snapToGround="TRUE" reil="TRUE" offset="30.480000" spacing="30.480000" slope="0.000000"/>
-			<RunwayStart end="PRIMARY" lat="48.71161131976896" lon="11.21191710120214" alt="378.58990604716814" heading="180.00000000000000"/>
-			<RunwayStart end="SECONDARY" lat="48.71035154051096" lon="11.21191710074829" alt="378.59465619742400" heading="0.00000000000000"/>
+			<RunwayStart end="PRIMARY" lat="48.71107793155772" lon="11.19496020810280" alt="378.64828675799072" heading="90.50000000000000"/>
+			<RunwayStart end="SECONDARY" lat="48.71088163319689" lon="11.22885821171061" alt="378.62431641668081" heading="270.50000000000000"/>
 		</Runway>
 		<Helipad type="H" lat="48.70959206733119" lon="11.20476245401918" alt="377.50619830377400" heading="180.000000" length="35.000000" width="35.000000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Aprons/>

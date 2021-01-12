@@ -1,0 +1,9 @@
+<Project Version="2" Name="etsn" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\etsn-etsn-airport.xml</Package>
+		<Package>PackageDefinitions\etsn-aerial.xml</Package>
+	</Packages>
+</Project>
+

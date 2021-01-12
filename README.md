@@ -15,5 +15,5 @@ Package contains:
 
 
 More information about the airport:
-https://en.wikipedia.org/wiki/Neuburg_Air_Base
-https://de.wikipedia.org/wiki/Fliegerhorst_Neuburg
+- https://en.wikipedia.org/wiki/Neuburg_Air_Base
+- https://de.wikipedia.org/wiki/Fliegerhorst_Neuburg

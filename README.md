@@ -1,4 +1,4 @@
-# Airport Neuburg (ETSN) for Microsoft Flight Simulator 2020
+# ETSN Airport Neuburg (Fliegerhorst Neuburg, Neuburg a.d.Donau) for Microsoft Flight Simulator 2020
 
 This is an early version of the Neuburg Air Base / Fliegerhorst Neuburg
 
@@ -9,7 +9,7 @@ Package contains:
 
 General Airport Information:
 - ICAO:              ETSN
-- Coordinates:       N48°42.66' / E11°12.68'
+- Coordinates:       N48Â°42.66' / E11Â°12.68'
 - Decimal Degrees:   48.710997 11.211500
 
 More information about the airport:

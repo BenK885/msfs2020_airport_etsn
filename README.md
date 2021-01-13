@@ -4,7 +4,7 @@
 
 ##### Package contains:
 - [x] Aearial imagery in higher resolution
-- [x] Runway with start positions on both ends (09 and 27)
+- [x] Runway with start positions on both ends
 - [x] Runway lights for night landings
 - [ ] Taxyway paths
 - [ ] Parking

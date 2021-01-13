@@ -4,8 +4,8 @@
 
 ##### Package contains:
 - [x] Secondary aearial imagery in higher resolution
-- [x] Simple runway with start positions on both ends (09 and 27)
-- [x] Simple runway lights configuration for night landings
+- [x] Runway with start positions on both ends (09 and 27)
+- [x] Runway lights for night landings
 - [ ] Taxyway paths
 - [ ] Parking
 - [ ] Configuration for ATC and AI

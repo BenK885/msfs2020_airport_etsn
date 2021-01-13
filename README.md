@@ -4,8 +4,13 @@
 
 ##### Package contains:
 - [x] Secondary aearial imagery in higher resolution
-- [x] Runway with start positions on both ends (09 and 27)
-- [x] Simple lights configuration for night landings
+- [x] Simple runway with start positions on both ends (09 and 27)
+- [x] Simple runway lights configuration for night landings
+- [ ] Taxyway paths
+- [ ] Parking
+- [ ] Configuration for ATC and AI
+- [ ] Detailed models, textures, etc.
+
 
 ##### General Airport Information:
 * ICAO:              ETSN

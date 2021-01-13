@@ -3,7 +3,7 @@
 ##### This is an early version of the Neuburg Air Base / Fliegerhorst Neuburg. The airport can be found on the world map: "ETSN Fliegerhorst Neuburg, Neuburg a.d.Donau"
 
 ##### Package contains:
-- [x] Secondary aearial imagery in higher resolution
+- [x] Aearial imagery in higher resolution
 - [x] Runway with start positions on both ends (09 and 27)
 - [x] Runway lights for night landings
 - [ ] Taxyway paths

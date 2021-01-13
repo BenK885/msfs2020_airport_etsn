@@ -9,7 +9,7 @@
 - [ ] Taxyway paths
 - [ ] Parking
 - [ ] Configuration for ATC and AI
-- [ ] Detailed models, textures, etc.
+- [ ] Details (runway, textures, lights, etc.)
 
 
 ##### General Airport Information:

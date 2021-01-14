@@ -2,7 +2,7 @@
 
 ##### This is an early version of the Neuburg Air Base / Fliegerhorst Neuburg. The airport can be found on the world map: "ETSN Fliegerhorst Neuburg, Neuburg a.d.Donau"
 
-##### Package contains:
+##### Package contains
 - [x] Aerial imagery in higher resolution
 - [x] Runway with start positions on both ends
 - [x] Runway lights for night landings
@@ -11,20 +11,22 @@
 - [ ] Configuration for ATC and AI
 - [ ] Accurate airport details (runway, textures, lights, etc.)
 
+##### Download
+* v0.1.0 https://flightsim.to/file/6167/etsn-neuburg-airport-fliegerhorst-neuburg
 
-##### General Airport Information:
+##### General Airport Information
 * ICAO:              ETSN
 * Coordinates:       N48°42.66' / E11°12.68'
 * Decimal Degrees:   48.710997 11.211500
 
-##### More information about the airport:
+##### More information about the airport
 * https://en.wikipedia.org/wiki/Neuburg_Air_Base
 * https://de.wikipedia.org/wiki/Fliegerhorst_Neuburg
 
-##### Download:
-* v0.1.0 https://flightsim.to/file/6167/etsn-neuburg-airport-fliegerhorst-neuburg
+##### Contribution
+Any feedback and support is highly appreciated ❤️
 
-##### Screenshots:
+##### Screenshots
 
 ![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_001.jpg)
 

@@ -21,7 +21,7 @@
 * https://en.wikipedia.org/wiki/Neuburg_Air_Base
 * https://de.wikipedia.org/wiki/Fliegerhorst_Neuburg
 
-##### Downloads 
+##### Download:
 * v0.1.0 https://flightsim.to/file/6167/etsn-neuburg-airport-fliegerhorst-neuburg
 
 ##### Screenshots:

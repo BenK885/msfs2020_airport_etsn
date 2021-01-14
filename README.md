@@ -7,7 +7,7 @@
 - [x] Runway with start positions on both ends
 - [x] Runway lights for night landings
 - [ ] Taxyway paths
-- [ ] Parking
+- [ ] Parking spots
 - [ ] Configuration for ATC and AI
 - [ ] Accurate airport details (runway, textures, lights, etc.)
 

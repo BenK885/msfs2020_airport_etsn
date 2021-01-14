@@ -24,7 +24,7 @@
 * https://de.wikipedia.org/wiki/Fliegerhorst_Neuburg
 
 ##### Contribution
-Any feedback and support is highly appreciated ❤️
+Any feedback and support is highly appreciated.
 
 ##### Screenshots
 

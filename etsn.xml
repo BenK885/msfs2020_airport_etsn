@@ -2,7 +2,6 @@
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\etsn-aerial.xml</Package>
 		<Package>PackageDefinitions\etsn-airport.xml</Package>
 	</Packages>
 </Project>

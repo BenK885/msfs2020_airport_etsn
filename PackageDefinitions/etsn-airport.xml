@@ -18,15 +18,23 @@
 			<AssetDir>PackageDefinitions\etsn-airport\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\etsn-airport\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="aerial">
+			<Type>CGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\CGL\</AssetDir>
+			<OutputDir>CGL\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="mymodellib">
 			<Type>ArtProj</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\modelLib\</AssetDir>
-			<OutputDir>scenery\mycompany\</OutputDir>
+			<OutputDir>scenery\etsn\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="myscene">
+		<AssetGroup Name="scene">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>

@@ -1,7 +1,7 @@
 ### ETSN - Neuburg Airport / Fliegerhorst Neuburg for Microsoft Flight Simulator 2020
 
-##### This is an early version of the Neuburg Air Base / Fliegerhorst Neuburg. The airport can be found on the world map: "ETSN Fliegerhorst Neuburg, Neuburg a.d.Donau"
-##### Work in progress... 
+#### This is an early version of the Neuburg Air Base / Fliegerhorst Neuburg. The airport can be found on the world map: "ETSN Fliegerhorst Neuburg, Neuburg a.d.Donau"
+#### Work in progress... 
 
 ##### Package contains
 - [x] Aerial imagery in higher resolution

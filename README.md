@@ -25,7 +25,7 @@
   * benk885-etsn-airport
 
   Download and unzip the latest package. Copy the following directory into your Microsoft Flight Simulator 2020 community folder:
-  * benk885-etsn-aerial
+  * benk885-etsn-airport
 
 #### General Airport Information
 * ICAO:              ETSN

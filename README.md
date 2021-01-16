@@ -12,7 +12,7 @@
 - [ ] Configuration for ATC and AI
 - [ ] Accurate airport details (runway, textures, lights, etc.)
 
-#### Download
+#### Latest release
 * v0.1.0 https://flightsim.to/file/6167/etsn-neuburg-airport-fliegerhorst-neuburg
 
 #### Installation instructions

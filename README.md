@@ -7,8 +7,12 @@
 - [x] Aerial imagery in higher resolution
 - [x] Runway with start positions on both ends
 - [x] Runway lights for night landings
-- [ ] Taxyway paths
-- [ ] Parking spots
+- [x] Some taxyways
+- [x] Some parkings spots
+- [x] Some hangars
+- [x] Some vegetation
+- [ ] All Taxyway paths
+- [ ] All Parking spots
 - [ ] Configuration for ATC and AI
 - [ ] Accurate airport details (runway, textures, lights, etc.)
 
@@ -43,8 +47,9 @@ Any Feedback, suggestions or support is highly appreciated. Let's connect via Di
   * Basic runway lights for night landings
 * v0.2.0
   * Added some taxyways
-  * Added some hangars
   * Added some parkings spots
+  * Added some hangars
+  * Added some vegetation
 
 #### Screenshots
 

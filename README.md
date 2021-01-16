@@ -26,6 +26,13 @@
 ##### Contribution
 Any feedback and support is highly appreciated.
 
+##### Changelog
+* v0.1.0
+  Initial release containing:
+  * Aerial imagery in higher resolution
+  * Simple runway with start positions on both ends
+  * Basic runway lights for night landings
+
 ##### Screenshots
 
 ![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_001.jpg)

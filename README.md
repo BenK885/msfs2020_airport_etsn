@@ -1,6 +1,7 @@
 ### ETSN - Neuburg Airport / Fliegerhorst Neuburg for Microsoft Flight Simulator 2020
 
 ##### This is an early version of the Neuburg Air Base / Fliegerhorst Neuburg. The airport can be found on the world map: "ETSN Fliegerhorst Neuburg, Neuburg a.d.Donau"
+##### Work in progress... 
 
 ##### Package contains
 - [x] Aerial imagery in higher resolution
@@ -14,6 +15,14 @@
 ##### Download
 * v0.1.0 https://flightsim.to/file/6167/etsn-neuburg-airport-fliegerhorst-neuburg
 
+##### Installation instructions
+  Remove any previous versions of this package by deleting the following directories from your Microsoft Flight Simulator 2020 community folder:
+  * benk885-etsn-aerial
+  * benk885-etsn-airport
+
+  Download and unzip the latest package. Copy the following directory into your Microsoft Flight Simulator 2020 community folder:
+  * benk885-etsn-aerial
+
 ##### General Airport Information
 * ICAO:              ETSN
 * Coordinates:       N48°42.66' / E11°12.68'
@@ -24,7 +33,7 @@
 * https://de.wikipedia.org/wiki/Fliegerhorst_Neuburg
 
 ##### Contribution
-Feedback, suggestions or support is highly appreciated. Let's connect via Discord: "BenK885"
+Any Feedback, suggestions or support is highly appreciated. Let's connect via Discord: BenK885
 
 ##### Changelog
 * v0.1.0
@@ -32,6 +41,10 @@ Feedback, suggestions or support is highly appreciated. Let's connect via Discor
   * Aerial imagery in higher resolution
   * Simple runway with start positions on both ends
   * Basic runway lights for night landings
+* v0.2.0
+  * Added some taxyways
+  * Added some hangars
+  * Added some parkings spots
 
 ##### Screenshots
 

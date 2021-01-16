@@ -2,7 +2,31 @@
 <FSData version="9.0">
 	<LandmarkLocation instanceId="{461A00C2-0F14-4ACE-934C-3B994FB9FBBF}" type="City" name="Neuburg an der Donau" lat="48.72876340154890" lon="11.18129457989630" alt="387.35724711231887" offset="0.000000"/>
 	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.70777172763824" lon="11.22973326285093" alt="0.00000000000000" pitch="0.000806" bank="-0.000806" heading="-130.734575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.70780865762289" lon="11.22846449063303" alt="0.00000000000000" pitch="0.001434" bank="-0.001434" heading="-70.432043" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.70820699354931" lon="11.22757599263098" alt="0.00000000000000" pitch="0.002705" bank="-0.002725" heading="-41.586252" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.70847775213177" lon="11.22931002755137" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="138.639043" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
 	<SceneryObject lat="48.70848097618587" lon="11.23148429834514" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="-144.086638" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.70858591287770" lon="11.22721152363740" alt="0.00000000000000" pitch="0.002732" bank="-0.002753" heading="-51.328390" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.70880062365703" lon="11.23014931571424" alt="0.00000000000000" pitch="0.000806" bank="-0.000806" heading="-130.734575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar12-->
@@ -18,7 +42,31 @@
 		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.70932818302696" lon="11.22639794351388" alt="0.00000000000000" pitch="0.001270" bank="-0.001270" heading="-87.102950" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.70934246246810" lon="11.22727214921213" alt="0.00000000000000" pitch="0.001380" bank="-0.001380" heading="31.954821" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
 	<SceneryObject lat="48.70941126860512" lon="11.23091201565584" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.71237432647938" lon="11.23144603171638" alt="0.00000000000000" pitch="0.000485" bank="-0.000485" heading="116.640725" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.71241041757627" lon="11.22812484564190" alt="0.00000000000000" pitch="0.000758" bank="-0.000758" heading="64.163535" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.71250572308737" lon="11.23034654229248" alt="0.00000000000000" pitch="0.000833" bank="-0.000840" heading="55.598710" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar12-->
+	<SceneryObject lat="48.71251903635623" lon="11.22899698768376" alt="0.00000000000000" pitch="0.001544" bank="-0.001544" heading="121.612529" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>
 	</SceneryObject>
 	<Airport region="Bayern" country="Deutschland" state="Bayern" city="Neuburg a.d.Donau" name="Fliegerhorst Neuburg" ident="ETSN" lat="48.71099280248328" lon="11.21160727930378" alt="375.99140042159706" magvar="3.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">

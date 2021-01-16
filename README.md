@@ -24,7 +24,7 @@
 * https://de.wikipedia.org/wiki/Fliegerhorst_Neuburg
 
 ##### Contribution
-Any feedback and support is highly appreciated.
+Feedback, suggestions or support is highly appreciated. Let's connect via Discord: "BenK885"
 
 ##### Changelog
 * v0.1.0

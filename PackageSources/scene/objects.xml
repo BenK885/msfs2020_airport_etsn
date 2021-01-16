@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
 	<LandmarkLocation instanceId="{461A00C2-0F14-4ACE-934C-3B994FB9FBBF}" type="City" name="Neuburg an der Donau" lat="48.72876340154890" lon="11.18129457989630" alt="387.35724711231887" offset="0.000000"/>
+	<LandmarkLocation instanceId="{1118596D-3AFB-40DE-9EE5-FE6B7C493D14}" type="POI" name="Schloss Neuburg" lat="48.73711628671622" lon="11.18071161267444" alt="399.18022259324789" offset="0.000000"/>
 	<!--SceneryObject name: Gen_Hangar12-->
 	<SceneryObject lat="48.70777172763824" lon="11.22973326285093" alt="0.00000000000000" pitch="0.000806" bank="-0.000806" heading="-130.734575" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{A8521337-2A77-4B18-974C-0F2108548683}" scale="2.169098"/>

@@ -45,6 +45,7 @@ Any Feedback, suggestions or support is highly appreciated. Let's connect via Di
   * Added some taxyways
   * Added some hangars
   * Added some parkings spots
+  * Added some vegetation
 
 #### Screenshots
 

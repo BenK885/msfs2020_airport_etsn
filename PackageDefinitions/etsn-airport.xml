@@ -26,13 +26,13 @@
 			<AssetDir>PackageSources\CGL\</AssetDir>
 			<OutputDir>CGL\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="mymodellib">
+		<AssetGroup Name="model">
 			<Type>ArtProj</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\modelLib\</AssetDir>
-			<OutputDir>scenery\etsn\</OutputDir>
+			<OutputDir>scenery/global/scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scene">
 			<Type>BGL</Type>
@@ -40,7 +40,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\scene\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
+			<OutputDir>scenery/global/scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

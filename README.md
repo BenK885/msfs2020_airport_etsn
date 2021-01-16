@@ -13,7 +13,7 @@
 - [ ] Accurate airport details (runway, textures, lights, etc.)
 
 #### Latest release
-* v0.1.0 https://flightsim.to/file/6167/etsn-neuburg-airport-fliegerhorst-neuburg
+* v0.2.0 https://flightsim.to/file/6167/etsn-neuburg-airport-fliegerhorst-neuburg
 
 #### Installation instructions
   Remove any previous versions of this package by deleting the following directories from your Microsoft Flight Simulator 2020 community folder:

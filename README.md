@@ -53,14 +53,6 @@ Any Feedback, suggestions or support is highly appreciated. Let's connect via Di
 
 #### Screenshots
 
-![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_001.jpg)
+![ETSN Airport Neuburg Screenshot 01](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_01.jpg)
 
-![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_002.jpg)
-
-![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_003.jpg)
-
-![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_004.jpg)
-
-![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_005.jpg)
-
-![ETSN Airport Neuburg Screenshot 001](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_006.jpg)
+![ETSN Airport Neuburg Screenshot 02](https://github.com/BenK885/msfs2020_airport_etsn/raw/main/Screenshots/Screenshot_02.jpg)
